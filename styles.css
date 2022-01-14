@@ -1,0 +1,12 @@
+input, label {
+    display: block;
+    
+}
+
+input {
+    margin-top: 0.5rem;
+}
+
+#check-number {
+    margin-top: 1rem;
+}
